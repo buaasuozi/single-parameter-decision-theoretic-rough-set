@@ -1,0 +1,15 @@
+https://doi.org/10.1016/j.ins.2020.05.124
+
+引用格式：
+M. Suo, L. Tao, B. Zhu, X. Miao, Z. Liang, Y. Ding, X. Zhang, T. Zhang, Single-parameter decision-theoretic rough set, Information Sciences (2020), doi: https://doi.org/10.1016/j.ins.2020.05.124
+
+
+Latex版本：
+
+@article{SUO2020,
+title = "Single-parameter decision-theoretic rough set",
+journal = "Information Sciences",
+year = "2020",
+doi = "https://doi.org/10.1016/j.ins.2020.05.124",
+author = "Mingliang Suo and Laifa Tao and Baolong Zhu and Xuewen Miao and Zhichao Liang and Yu Ding and Xingliu Zhang and Tong Zhang",
+}
